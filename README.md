@@ -1,5 +1,6 @@
 
-# Aplicação de Machine Learning em perfis LWD
+# Aplicação_de_Machine_Learning_em_Perfis_LWD
+
 #### Aluno: [Márcio Albuquerque Silveira](https://github.com/marcioasilveira)
 #### Orientadoras: [Amanda Lemette T. Brandão](https://github.com/amandalemette) e [Júlia Potratz](https://github.com/jupotratz).
 
